@@ -1,13 +1,7 @@
 package com.edy.feature_listmovies.ui.screen
 
-import android.util.Log.v
 import androidx.compose.animation.AnimatedVisibility
-import androidx.compose.animation.core.FastOutSlowInEasing
-import androidx.compose.animation.core.FloatAnimationSpec
-import androidx.compose.animation.core.FloatSpringSpec
-import androidx.compose.animation.core.FloatTweenSpec
 import androidx.compose.animation.core.tween
-import androidx.compose.animation.expandVertically
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
 import androidx.compose.foundation.Image
