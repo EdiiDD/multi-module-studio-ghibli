@@ -1,0 +1,14 @@
+<resources>
+    <string name="error_api_notified">Please report this error to the support.</string>
+    <string name="error_api_unauthorized_error">You are unauthorized, please contact with the support.</string>
+    <string name="error_api_connectivity_error">Please check your connection.</string>
+    <string name="error_api_try_again">Please try again.</string>
+
+    <string name="error_file_not_found">This file don\'t exit. Please try again.</string>
+    <string name="error_file_read_error">Error while reading file. Please try again.</string>
+
+    <string name="error_local_database_missing">Please report this error to the support.</string>
+
+    <string name="error_network">You lost the connection. Please check your connection</string>
+    <string name="enable_network">Your connection is available.</string>
+</resources>

@@ -1,0 +1,1 @@
+/Users/ediid/AndroidStudioProjects/StudioGhibli/buildSrc/build/classes/kotlin/main/Configuration.class

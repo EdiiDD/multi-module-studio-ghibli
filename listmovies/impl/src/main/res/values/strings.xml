@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">feature-listmovies</string>
+    <string name="favorite_movies">Favorite movies</string>
+    <string name="best_movies">Best movies</string>
+</resources>
